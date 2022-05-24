@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65571761042",
+    "firebase_url": "https://qnoapp0-default-rtdb.firebaseio.com",
+    "project_id": "qnoapp0",
+    "storage_bucket": "qnoapp0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65571761042:android:adb981098d57c52154af4b",
+        "android_client_info": {
+          "package_name": "com.qno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65571761042-7f8bqint3ufdmfigkuj7sp9gv6akkkpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qno",
+            "certificate_hash": "2ccc08f00e54ae87bbc52912d2a4047a02032420"
+          }
+        },
+        {
+          "client_id": "65571761042-71ltdjvaoqdalrokgebi68eqjkl363pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BKpF03et7B-539UekRgfbWN6BW5vJlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65571761042-71ltdjvaoqdalrokgebi68eqjkl363pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
